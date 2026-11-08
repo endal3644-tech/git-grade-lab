@@ -1,4 +1,5 @@
 def average(scores):
+    if not scores
     return sum(scores) / len(scores)
 
 
